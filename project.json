@@ -1,0 +1,41 @@
+{
+  "id": 59,
+  "category": "game-companion",
+  "slug": "delta-force-squad-notebook",
+  "target": "Delta Force",
+  "appid": "2507950",
+  "summaryRu": "Ручной журнал командных ролей, экипировки и разборов завершенных сессий.",
+  "features": [
+    "Squad role cards",
+    "Equipment cost notes",
+    "Post-session review sheets"
+  ],
+  "title": "SquadBrief — Delta Force — Operations",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "SquadBrief",
+  "repositoryName": "squadbrief-delta-force-squad-notebook-operations",
+  "githubTopics": [
+    "delta-force",
+    "squad-roles",
+    "equipment-budget",
+    "post-session-review",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "operations"
+}
